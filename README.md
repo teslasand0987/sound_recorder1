@@ -10,5 +10,9 @@ Pythonで作成された。サウンドレコーダです。マイクにつな�
 PyAudio をインストールしてください。 PyAudio をインストール後、このリポジトリ を Fork して git clone してください。
 この.pyファイルの入っているPathに移動したら以下のコマンドを実行してください。
 
+```bash
+python python_recorder.py
+```
+
 ## 更新履歴
 2022/01/12　ver 1.0.0公開
